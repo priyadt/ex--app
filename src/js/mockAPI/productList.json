@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "name": "Service Contract",
+      "price": "$10,000.00",
+      "image": "car1.jpg",
+      "isRecommended": false
+  },
+  {
+      "id": 2,
+      "name": "Prepaid Maitanenace",
+      "price": "$10,000.00",
+      "image": "car1.jpg",
+      "isRecommended": true
+  },
+  {
+      "id": 3,
+      "name": "Road Hazard",
+      "price": "$20,000.00",
+      "image": "car1.jpg",
+      "isRecommended": true
+  },
+  {
+      "id": 4,
+      "name": "Security Coding",
+      "price": "$40,000.00",
+      "image": "car1.jpg",
+      "isRecommended": true
+  }
+]

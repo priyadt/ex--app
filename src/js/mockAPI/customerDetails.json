@@ -1,0 +1,15 @@
+{
+  "count": 1,
+  "next": null,
+  "results": [
+    {
+      "first_name": "Menu",
+      "last_name": "BalloonDeal",
+      "zipcode": "11042",
+      "phone": "5167343600",
+      "customer_id": 310200000000000100,
+      "email": null
+    }
+  ],
+  "previous": null
+}

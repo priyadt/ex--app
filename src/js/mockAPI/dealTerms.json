@@ -1,0 +1,61 @@
+{
+
+            "deal_id": "310200000000000017",
+
+            "dlr_cd": "1111132",
+
+            "deal_jacket_id": "310200000000000016",
+
+            "termrateoptions": [
+
+      {
+
+        "deal_id": "310200000000000017",
+
+                        "dlr_cd": "1111132",
+
+                        "deal_jacket_id": "310200000000000016",
+
+        "term": "36",
+
+        "apr": "2.9",
+
+        "payment": "356",
+
+        "money_factor": "12",
+
+        "residual_percentage": "3.9",
+
+        "position": "1",
+
+        "ballon_payment": "3500"
+
+      },
+
+      {
+
+         "deal_id": "310200000000000017",
+
+                        "dlr_cd": "1111132",
+
+                        "deal_jacket_id": "310200000000000016",
+
+        "term": "48",
+
+        "apr": "1.9",
+
+        "payment": "312",
+
+        "money_factor": "10",
+
+        "residual_percentage": "2.9",
+
+        "position": "2",
+
+        "ballon_payment": "3000"
+
+      }
+
+    ]
+
+}

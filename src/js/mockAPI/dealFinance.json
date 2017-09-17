@@ -1,0 +1,15 @@
+{
+  "monthly_payment": null,
+  "total_down_payment": 3500,
+  "apr": 2.4,
+  "annual_miles": null,
+  "money_factor": null,
+  "cash_down_amount": 2500,
+  "selling_price": 27000,
+  "days_to_first_payment": null,
+  "term": 48,
+  "rebate_amount": 1000,
+  "finance_method": "BALL",
+  "amount_financed": 27250,
+  "residual_percentage": null
+}

@@ -1,0 +1,20 @@
+{
+  "count": 1,
+  "next": null,
+  "results": [
+    {
+      "vehicle_id": 310200000000000119,
+      "certified_used": "N",
+      "chrome_make": "Toyota",
+      "vin": null,
+      "model_number": "Hybrid SE CVT (Natl)",
+      "odometer": 15,
+      "stock_no": null,
+      "chrome_year": 2017,
+      "chrome_trim": "Hybrid SE CVT (Natl)",
+      "chrome_style_id": null,
+      "chrome_model": "Camry"
+    }
+  ],
+  "previous": null
+}
